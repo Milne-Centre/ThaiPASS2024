@@ -7,7 +7,7 @@
 
 ## Description of the current folders:
 
-### The Lives of Stars
+### Exoplanets
 Tasks for "Exoplanets" material.
 
 For students with little or no Python experience, we recommend that you register and work on the basic Python ThaiMOOC by Dr Teeraparb Chantavat.
