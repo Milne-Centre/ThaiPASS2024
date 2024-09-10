@@ -11,4 +11,8 @@ There are 4 parts in the project. The first 2 are not that difficult but the las
 
 I hope you will enjoy this project and learn some interesting things!
 
+You can download my presentation [here](https://www.dropbox.com/scl/fi/npxylm33duiup6w5j2uyx/Stamatellos-ThaiPass-2024.pptx?rlkey=9dxzidzcbgnas4xxao74rdjz9&dl=0) 
+
+
+
 Dimitris Stamatellos
