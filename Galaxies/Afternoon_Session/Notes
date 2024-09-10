@@ -1,0 +1,21 @@
+In this session we will be using a very large dataset. There are two ways to use this data. 
+
+1. Download the dataset to your own machine from the link below. This is compressed, please be aware that when extracted, the total size of these files is 2.1GB.
+https://drive.google.com/file/d/1VP9YuT79LZaBMDrhnhlbH_uA_qUzWLni/view?usp=share_link
+
+Or
+
+2. Use Google Colab to write your python code and you will be able to read the data directly from my google drive.
+To do this, please see the files here: https://drive.google.com/drive/folders/17UqU1adZRsyuRZ2MCf0kRWgohcleggP-?usp=share_link
+Click on the three dots on the right of the 'Galaxy_zoo' folder, select 'organise', then 'add shortcut' and 'my drive'.
+This action will add a shortcut to this folder to your own google drive. You can then read from this folder in Google Colab
+
+from google.colab import drive
+drive.mount('/content/drive')
+data_path = '/content/drive/My Drive/Galaxy_Zoo/'
+
+Check the contents:
+
+! ls '/content/drive/My Drive/Galaxy_Zoo/'
+
+This will allow you to read and use the data without downloading the data to your own machine or to your own google drive. 
