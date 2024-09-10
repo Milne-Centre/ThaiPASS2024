@@ -7,3 +7,7 @@ The workbooks are basically guided by the tasks and deducted parts of the soluti
 If you see "...", that means you need to think of something and debug/fix the code there. 
 You can also opt to write the entirety of the code in each block on your own too.
 
+Also, if you have not done so, install sklearn and sklearn-som into your machine or wherever you are running Python notebook.
+
+https://pypi.org/project/sklearn-som/
+
